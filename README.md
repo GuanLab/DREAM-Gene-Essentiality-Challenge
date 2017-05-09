@@ -10,7 +10,7 @@ The original dataset downloaded [here](https://www.synapse.org/#!Synapse:syn2384
 ####1. pearson_matrix_all.txt
 A matrix of Pearson scores between PR genes and CCLE-EXP genes. 
 
-<br><br><br><br>
+
 ##>> generate_GE_top_100.pl
 ###Summary
 Obtain the global ranking informatiom of each feature, which would be used to calculate global scores.
