@@ -1,3 +1,4 @@
+# Pipeline
 ## >> calculate_corr.m
 ### Summay
 Calculate Pearson Correlations between the CCLE-EXP gene and PR gene.
@@ -85,3 +86,7 @@ The model for a specific gene.
 #### 2. {GENE}.out.input
 The predicted essenciality score of a specific gene in testing cell lines.
 
+<br><br><br><br>
+# CV_alpha
+### Summary
+This folder contains scripts for 5-fold cross-validation testing alternative alpha values.
