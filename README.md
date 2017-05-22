@@ -94,8 +94,6 @@ This folder contains scripts for 5-fold cross-validation testing alternative alp
 ## CV_different_regression_methods
 This folder contains scripts for 5-fold cross-validation testing different regression algorithms.
 
-## CV_no_copynumber
-This folder contains scripts for 5-fold cross-validation testing an alternative usage of available features, where all 10 features were expression features.
 ## CV_3-30_features
 
 This folder contains scripts for 5-fold cross-validation testing a bunch of alternative numbers (3,4,5...30) of features used for prediction.
